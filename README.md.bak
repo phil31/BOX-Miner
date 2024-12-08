@@ -22,6 +22,12 @@ AsicBoards :
 	
 enclosure box dimensions: 200 x 200 x 140 mm
 
+![hashcard](https://github.com/phil31/BOX-Miner/blob/main/images/Assembled_board_10xBM1370_Without_Heatsink.jpg)
+![hashcard](https://github.com/phil31/BOX-Miner/blob/main/images/PowerBoard_TPS53667_TOP.jpg)
+![hashcard](https://github.com/phil31/BOX-Miner/blob/main/images/PowerBoard_TPS53667_BOT.jpg)
+![hashcard](https://github.com/phil31/BOX-Miner/blob/main/images/AsicBoard_10xBM1370_TOP.jpg)
+![hashcard](https://github.com/phil31/BOX-Miner/blob/main/images/AsicBoard_10xBM1370_BOT.jpg)
+
 ![hashcard](https://github.com/phil31/BOX-Miner/blob/main/images/3D_EKO_Miner_Wheatsink_V1.jpg)
 ![hashcard](https://github.com/phil31/BOX-Miner/blob/main/images/3D_EKO_Miner_WOheatsink_V1.jpg)
 	
