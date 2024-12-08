@@ -1,0 +1,218 @@
+(footprint "Barrier Terminal 01x04"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 2.032 -1.016 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "34165439-b286-46fb-840b-c099f9ba2abb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "Barrier Terminal 01x04"
+		(at 9.144 2.032 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a0aa1ab0-72b9-4ee4-a36e-cde12f77c8e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 33.528 1.182 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "695ceafd-2f08-45f0-a5ed-430bb96cc4cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 33.528 1.182 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2039132e-5251-4270-81e1-761fee1d8d4d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 33.528 1.182 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37b947dc-c49f-4532-b836-1174b08f2048")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Number" "YK5110403000G"
+		(at 33.528 3.556 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c25b3339-3de5-4d75-bc67-2bdd225bcccc")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "P/N Mouser" "649-YK51104030J0G"
+		(at 33.528 2.54 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ba376989-2e20-4d31-bfbe-136b467cea2c")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "P/N Digikey" "YK5110403000G-ND"
+		(at 33.528 1.182 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0ea18d81-d5b5-4fb2-a6b7-bb10af9b731f")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start 0 -0.008)
+		(end 40 16.492)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "e8d731a6-2058-4445-b314-617cd206fb58")
+	)
+	(fp_text user "+12V"
+		(at 32.93 15.882 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1f2b2226-d68f-462f-8ada-2a4ccb27d186")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "+12V"
+		(at 22.9 15.882 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3d532828-3902-4f60-8c0e-140410214f4b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at 13.53 15.882 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c211c9c6-5b32-4237-8dd4-3ebffcba6554")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at 3.53 15.882 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f772ce56-0890-4109-8a65-ec28d2faded9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -1.016 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "31c36974-b508-4df4-a7d2-c5fa5f0d602a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 5 8.242)
+		(size 3.5 3.5)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d18348c7-2381-4e4e-8920-cf3cced8cb24")
+	)
+	(pad "2" thru_hole circle
+		(at 15 8.242)
+		(size 3.5 3.5)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d9f3f441-39bd-4ed0-b0f7-dd2edd105b40")
+	)
+	(pad "3" thru_hole circle
+		(at 25 8.242)
+		(size 3.5 3.5)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8f284000-2d2b-44f3-b918-3f52b1141696")
+	)
+	(pad "4" thru_hole circle
+		(at 35 8.242)
+		(size 3.5 3.5)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6e19df4c-3683-4b09-a518-73d8aceb843e")
+	)
+)

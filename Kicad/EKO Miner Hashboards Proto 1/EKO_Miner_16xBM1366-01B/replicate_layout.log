@@ -1,0 +1,91 @@
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.11.5 (main, Aug 14 2024, 05:26:19) [MSC v.1939 64 bit (AMD64)]'
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 8.0.6
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 3.0.2
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x00000182BB01FC70>
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with C45 as a reference
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'C45'
+Located on: ['PSU_160A', 'PowerStage']
+With filenames: ['PWU_160A.kicad_sch', 'PowerStage.kicad_sch']
+With sheet_id:['PSU_160A', 'PowerStage']
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('C45', ['PSU_160A', 'PowerStage']), ('C61', ['PSU_160A', 'PowerStage1']), ('C77', ['PSU_160A', 'PowerStage2']), ('C93', ['PSU_160A', 'PowerStage3'])]
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1327:Filtering list of tracks
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(1467, 111)
+11-01 11:07:51 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(1028, 111)
+11-01 11:07:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:07:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:07:58 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:07:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:07:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:07:59 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:08:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:08:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:08:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:08:09 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:08:09 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:08:09 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:08:11 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:08:11 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:08:11 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:08:12 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:08:12 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:08:12 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:08:13 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:08:13 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:08:13 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:08:13 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:08:13 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:08:13 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:08:15 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:08:15 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:08:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:08:17 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:08:17 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:08:17 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['PSU_160A', 'PowerStage']
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'PowerStage', file:'PowerStage.kicad_sch'
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 278:Starting replication of sheets: [['PSU_160A', 'PowerStage1'], ['PSU_160A', 'PowerStage2'], ['PSU_160A', 'PowerStage3']]
+on level: ['PSU_160A', 'PowerStage']
+with tracks=False, zone=False, text=False, text=False, intersecting=False, remove=True, locked footprints=False, group_only=False
+11-01 11:08:54 root 332:updating GUI message: 'Preparing for replication'
+11-01 11:08:54 root 337:updating GUI with: 0
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 348:Getting the list of source footprints
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:Getting the list of all the remaining footprints
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 365:Getting source tracks
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1327:Filtering list of tracks
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 369:Getting source zones
+11-01 11:08:54 root 337:updating GUI with: 50
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 373:Getting source text items
+11-01 11:08:54 root 337:updating GUI with: 66
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 377:Getting source drawing items
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 310:Removing tracks and zones, before footprint placement
+11-01 11:08:54 root 332:updating GUI message: 'Removing zones and tracks'
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:50895000, bottom:69825000, Left:117635666, Right:146873666
+11-01 11:08:54 root 337:updating GUI with: 33
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:50895000, bottom:69825000, Left:150102332, Right:179340332
+11-01 11:08:54 root 337:updating GUI with: 66
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:50895000, bottom:69825000, Left:182569000, Right:211807000
+11-01 11:08:54 root 332:updating GUI message: 'Replicating footprints'
+11-01 11:08:54 root 337:updating GUI with: 0
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 844:Replicating footprints
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['PSU_160A', 'PowerStage1']
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['PSU_160A', 'PowerStage2']
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['PSU_160A', 'PowerStage3']
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 318:Removing tracks and zones, after footprint placement
+11-01 11:08:54 root 332:updating GUI message: 'Removing zones and tracks'
+11-01 11:08:54 root 337:updating GUI with: 0
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:51403000, bottom:70333000, Left:117635666, Right:146873666
+11-01 11:08:54 root 337:updating GUI with: 33
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:51403000, bottom:70333000, Left:150102332, Right:179340332
+11-01 11:08:54 root 337:updating GUI with: 66
+11-01 11:08:54 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:51403000, bottom:70333000, Left:182569000, Right:211807000
+11-01 11:08:54 root 332:updating GUI message: 'Removing duplicates'
+11-01 11:08:54 root 337:updating GUI with: 0
+11-01 11:08:56 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete

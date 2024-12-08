@@ -1,0 +1,4 @@
+04-01 01:38:01 length_stats.action_length_stats 304:Plugin executed on: 'win32'
+04-01 01:38:01 length_stats.action_length_stats 305:Plugin executed with python version: '3.11.5 (main, Jan 19 2024, 08:13:45) [MSC v.1936 64 bit (AMD64)]'
+04-01 01:38:01 length_stats.action_length_stats 306:KiCad build version: 8.0.1
+04-01 01:38:01 length_stats.action_length_stats 307:Length stats plugin version: 30 started

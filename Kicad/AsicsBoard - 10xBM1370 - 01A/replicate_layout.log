@@ -1,0 +1,83 @@
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.11.5 (main, Aug 14 2024, 05:26:19) [MSC v.1939 64 bit (AMD64)]'
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 8.0.6
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 3.0.2
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x000002633284FD00>
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with U5 as a reference
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'U5'
+Located on: ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+With filenames: ['ASICs.kicad_sch', 'ASICs_BM1370.kicad_sch', 'BM1370.kicad_sch']
+With sheet_id:['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('U10', ['ASICs', 'ASICs_BM1370_2', 'BM1370-0']), ('U12', ['ASICs', 'ASICs_BM1370_1', 'BM1370-4']), ('U4', ['ASICs', 'ASICs_BM1370_1', 'BM1370-1']), ('U8', ['ASICs', 'ASICs_BM1370_2', 'BM1370-2']), ('U13', ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']), ('U9', ['ASICs', 'ASICs_BM1370_1', 'BM1370-3']), ('U5', ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']), ('U11', ['ASICs', 'ASICs_BM1370_2', 'BM1370-3']), ('U6', ['ASICs', 'ASICs_BM1370_2', 'BM1370-1']), ('U7', ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'])]
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'BM1370-0', file:'BM1370.kicad_sch'
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['ASICs', 'ASICs_BM1370_1', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-4'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-0'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']]
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+12-06 18:29:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1327:Filtering list of tracks
+12-06 18:29:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(3097, 111)
+12-06 18:29:36 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(2658, 111)
+12-06 18:29:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'BM1370-0', file:'BM1370.kicad_sch'
+12-06 18:29:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['ASICs', 'ASICs_BM1370_1', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-4'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-0'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']]
+12-06 18:29:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+12-06 18:29:40 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'BM1370-0', file:'BM1370.kicad_sch'
+12-06 18:29:40 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['ASICs', 'ASICs_BM1370_1', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-4'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-0'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']]
+12-06 18:29:40 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+12-06 18:29:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'BM1370-0', file:'BM1370.kicad_sch'
+12-06 18:29:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['ASICs', 'ASICs_BM1370_1', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-4'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-0'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']]
+12-06 18:29:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+12-06 18:29:48 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'BM1370-0', file:'BM1370.kicad_sch'
+12-06 18:29:48 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['ASICs', 'ASICs_BM1370_1', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-4'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-0'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']]
+12-06 18:29:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+12-06 18:29:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'BM1370-0', file:'BM1370.kicad_sch'
+12-06 18:29:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['ASICs', 'ASICs_BM1370_1', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-4'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-0'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']]
+12-06 18:29:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+12-06 18:29:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'BM1370-0', file:'BM1370.kicad_sch'
+12-06 18:29:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['ASICs', 'ASICs_BM1370_1', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-4'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-0'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']]
+12-06 18:29:51 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+12-06 18:29:52 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'BM1370-0', file:'BM1370.kicad_sch'
+12-06 18:29:52 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['ASICs', 'ASICs_BM1370_1', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-4'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-0'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']]
+12-06 18:29:52 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'BM1370-0', file:'BM1370.kicad_sch'
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['ASICs', 'ASICs_BM1370_1', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-4'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-0'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']]
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 278:Starting replication of sheets: [['ASICs', 'ASICs_BM1370_1', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_1', 'BM1370-4'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-0'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-1'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-2'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-3'], ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']]
+on level: ['ASICs', 'ASICs_BM1370_1', 'BM1370-0']
+with tracks=False, zone=False, text=True, text=False, intersecting=False, remove=False, locked footprints=False, group_only=False
+12-06 18:30:02 root 332:updating GUI message: 'Preparing for replication'
+12-06 18:30:02 root 337:updating GUI with: 0
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 348:Getting the list of source footprints
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:Getting the list of all the remaining footprints
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 365:Getting source tracks
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1327:Filtering list of tracks
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 369:Getting source zones
+12-06 18:30:02 root 337:updating GUI with: 50
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 373:Getting source text items
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 377:Getting source drawing items
+12-06 18:30:02 root 332:updating GUI message: 'Replicating footprints'
+12-06 18:30:02 root 337:updating GUI with: 0
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 844:Replicating footprints
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['ASICs', 'ASICs_BM1370_1', 'BM1370-1']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['ASICs', 'ASICs_BM1370_1', 'BM1370-2']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['ASICs', 'ASICs_BM1370_1', 'BM1370-3']
+12-06 18:30:02 root 337:updating GUI with: 32
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['ASICs', 'ASICs_BM1370_1', 'BM1370-4']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['ASICs', 'ASICs_BM1370_2', 'BM1370-0']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['ASICs', 'ASICs_BM1370_2', 'BM1370-1']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['ASICs', 'ASICs_BM1370_2', 'BM1370-2']
+12-06 18:30:02 root 337:updating GUI with: 72
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['ASICs', 'ASICs_BM1370_2', 'BM1370-3']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']
+12-06 18:30:02 root 332:updating GUI message: 'Replicating text'
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1164:Replicating text
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['ASICs', 'ASICs_BM1370_1', 'BM1370-1']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['ASICs', 'ASICs_BM1370_1', 'BM1370-2']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['ASICs', 'ASICs_BM1370_1', 'BM1370-3']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['ASICs', 'ASICs_BM1370_1', 'BM1370-4']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['ASICs', 'ASICs_BM1370_2', 'BM1370-0']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['ASICs', 'ASICs_BM1370_2', 'BM1370-1']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['ASICs', 'ASICs_BM1370_2', 'BM1370-2']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['ASICs', 'ASICs_BM1370_2', 'BM1370-3']
+12-06 18:30:02 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['ASICs', 'ASICs_BM1370_2', 'BM1370-4']
+12-06 18:30:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete

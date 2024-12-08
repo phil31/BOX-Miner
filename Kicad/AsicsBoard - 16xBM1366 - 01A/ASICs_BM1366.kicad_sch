@@ -1,0 +1,2697 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4a3254ca-96ea-49b0-a9a6-8620ee41d8db")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.762) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 218.44 80.01) (xy 228.6 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00a2f47d-30a0-4057-ad00-b122b07f8749")
+	)
+	(wire
+		(pts
+			(xy 218.44 72.39) (xy 228.6 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00a9de9f-6407-481c-8d54-18c4efde808b")
+	)
+	(wire
+		(pts
+			(xy 111.76 74.93) (xy 121.92 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a78913a-ed90-4a49-987a-5f3bbf7ea3c2")
+	)
+	(wire
+		(pts
+			(xy 218.44 69.85) (xy 228.6 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f90044d-3582-4e0a-8a4a-fd9c86f69e7e")
+	)
+	(wire
+		(pts
+			(xy 25.4 72.39) (xy 41.91 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14bf6c78-dabd-4aef-adb4-2895e3e33b4b")
+	)
+	(wire
+		(pts
+			(xy 165.1 77.47) (xy 175.26 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16cc67e8-cf73-4503-9ef6-707750c5d7f2")
+	)
+	(wire
+		(pts
+			(xy 165.1 80.01) (xy 175.26 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1afc06c8-befb-458d-872e-493109092cdb")
+	)
+	(wire
+		(pts
+			(xy 85.09 80.01) (xy 95.25 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b241d82-6fec-4af8-a611-1e86cb7753c7")
+	)
+	(wire
+		(pts
+			(xy 245.11 72.39) (xy 257.81 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27b6bb99-546d-464c-aaa3-49dbc6ef21dd")
+	)
+	(wire
+		(pts
+			(xy 85.09 74.93) (xy 95.25 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29db001a-5e97-4370-8a53-f63287bd267b")
+	)
+	(wire
+		(pts
+			(xy 64.77 95.25) (xy 72.39 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32f6a5bf-a1a9-4207-99bc-be0e230254dd")
+	)
+	(wire
+		(pts
+			(xy 72.39 105.41) (xy 64.77 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38ed080d-4606-437a-bfdd-11ad41a5e932")
+	)
+	(wire
+		(pts
+			(xy 85.09 77.47) (xy 95.25 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ad5381a-8628-4f94-9db6-1a8f9a704551")
+	)
+	(wire
+		(pts
+			(xy 25.4 74.93) (xy 41.91 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f2b0a88-18a5-4e58-914f-7cf9149f8655")
+	)
+	(wire
+		(pts
+			(xy 138.43 69.85) (xy 148.59 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44f5ead8-3252-4d05-ab7b-e080d1554d8c")
+	)
+	(wire
+		(pts
+			(xy 165.1 69.85) (xy 175.26 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "573366c2-d8cd-41ee-8bd9-36bc42015f4f")
+	)
+	(wire
+		(pts
+			(xy 85.09 69.85) (xy 95.25 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "588d6b3f-923c-4236-a2af-ede7b146a00b")
+	)
+	(wire
+		(pts
+			(xy 58.42 80.01) (xy 68.58 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d02ca74-0264-4dc2-95e8-c736e17fa8ee")
+	)
+	(wire
+		(pts
+			(xy 245.11 74.93) (xy 257.81 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61bed4b7-a513-41a5-b5fe-d120feae8d07")
+	)
+	(wire
+		(pts
+			(xy 111.76 72.39) (xy 121.92 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61ce9504-bcca-4033-9b34-6b37ccf446cf")
+	)
+	(wire
+		(pts
+			(xy 245.11 77.47) (xy 257.81 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6320c531-34eb-4ec5-b2e4-1553ac22731a")
+	)
+	(wire
+		(pts
+			(xy 58.42 74.93) (xy 68.58 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64b6e798-aafb-42a2-a10f-2afe78381dcd")
+	)
+	(wire
+		(pts
+			(xy 191.77 77.47) (xy 201.93 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e20d557-b85e-49da-a822-543ee6ebfbe7")
+	)
+	(wire
+		(pts
+			(xy 64.77 100.33) (xy 72.39 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6eb77769-836b-491a-9767-0b9430bb696f")
+	)
+	(wire
+		(pts
+			(xy 245.11 69.85) (xy 257.81 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80b2f8d6-3c31-4337-b7fa-c76b759e0f1e")
+	)
+	(wire
+		(pts
+			(xy 138.43 77.47) (xy 148.59 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "855f6912-ff29-46af-a331-7c34b0d9c79a")
+	)
+	(wire
+		(pts
+			(xy 25.4 77.47) (xy 41.91 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a9bb77b-8c3d-473e-9686-7bbc08fd4384")
+	)
+	(wire
+		(pts
+			(xy 191.77 69.85) (xy 201.93 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c01f58b-18cb-4107-8c88-6d1c379171d2")
+	)
+	(wire
+		(pts
+			(xy 165.1 72.39) (xy 175.26 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c8085a4-27fa-4ac0-9b8b-18c48f3e1a0c")
+	)
+	(wire
+		(pts
+			(xy 58.42 72.39) (xy 68.58 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8efe4685-60e7-4600-8b27-15c678344174")
+	)
+	(wire
+		(pts
+			(xy 191.77 74.93) (xy 201.93 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dff167b-cefb-48cf-917d-19944390306a")
+	)
+	(wire
+		(pts
+			(xy 72.39 102.87) (xy 64.77 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f3598d4-cbdf-4cff-a92f-165e2d4fe2eb")
+	)
+	(wire
+		(pts
+			(xy 138.43 80.01) (xy 148.59 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f8e2708-1f9e-4d83-be2b-2126f5ed1d6a")
+	)
+	(wire
+		(pts
+			(xy 25.4 69.85) (xy 41.91 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a29c8848-e1d8-41df-9ad7-280bf646074a")
+	)
+	(wire
+		(pts
+			(xy 111.76 77.47) (xy 121.92 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8fb8fd1-673c-47d8-aee7-9c08224e8c33")
+	)
+	(wire
+		(pts
+			(xy 58.42 69.85) (xy 68.58 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb6e57a0-a66f-4d5a-b63b-676a352abce4")
+	)
+	(wire
+		(pts
+			(xy 138.43 72.39) (xy 148.59 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc83c924-ec01-4357-a83d-63378d67aaba")
+	)
+	(wire
+		(pts
+			(xy 85.09 72.39) (xy 95.25 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c01f9cfa-bb0d-4c67-9e11-e55e9eead94e")
+	)
+	(wire
+		(pts
+			(xy 64.77 97.79) (xy 72.39 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c09a4e7a-9bc2-4eff-850d-3d1ef1ac00d4")
+	)
+	(wire
+		(pts
+			(xy 245.11 80.01) (xy 257.81 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c101c9da-6107-4884-a101-85fc898400cd")
+	)
+	(wire
+		(pts
+			(xy 138.43 74.93) (xy 148.59 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1bde597-b135-4b79-9e88-0fff659d62ea")
+	)
+	(wire
+		(pts
+			(xy 191.77 80.01) (xy 201.93 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c846e47d-b672-41ee-b91e-5d0cf31969c1")
+	)
+	(wire
+		(pts
+			(xy 111.76 80.01) (xy 121.92 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce9b00c0-02ed-4833-ae3c-ff08207b673d")
+	)
+	(wire
+		(pts
+			(xy 58.42 77.47) (xy 68.58 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf3a0087-af9f-4153-9d5f-8512aff3b8d7")
+	)
+	(wire
+		(pts
+			(xy 25.4 80.01) (xy 41.91 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf70038d-876c-4e1e-9dff-992c36969fb0")
+	)
+	(wire
+		(pts
+			(xy 218.44 74.93) (xy 228.6 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d93b27f3-7f31-4f77-8f50-9bc0642a6085")
+	)
+	(wire
+		(pts
+			(xy 165.1 74.93) (xy 175.26 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7938386-10b3-4dc0-9607-83a2bbfd9eaa")
+	)
+	(wire
+		(pts
+			(xy 191.77 72.39) (xy 201.93 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef873628-7d39-4e97-a173-a08cc3b2ac1e")
+	)
+	(wire
+		(pts
+			(xy 111.76 69.85) (xy 121.92 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f33238bf-2ce9-494d-afde-7f25c9b05484")
+	)
+	(wire
+		(pts
+			(xy 218.44 77.47) (xy 228.6 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3c12744-2c0a-4fe9-a0d0-c1824de90449")
+	)
+	(text "from prev ASIC"
+		(exclude_from_sim no)
+		(at 18.288 85.344 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae881efd-a6db-4dc8-bda2-ae8589c33225")
+	)
+	(text "voir BM1368 semble compatible pin2pin"
+		(exclude_from_sim no)
+		(at 155.702 45.466 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+		)
+		(uuid "b5026858-0bf8-45bd-8748-cda0c0cadcf0")
+	)
+	(text "BM1380\nFirst of all: the datasheet gives very little information about how this chip actually works \n(I imagine that more detailed specification is available for those that buy these in large quantities). \nSchematics of S1 reveal information about the functionality of certain pins.\n\nChips in S1 use UART for communication, settings are 115200, 8N1. Chips communicate within the chain using UART + flow control signals:\n\nCI - Command Input <-> uplink's (like a control board, or so) TXD\nRO - Response Output <-> uplink's RXD\nCO - Command Ouput <-> connected to CI of the downlink (meaning: next chip in chain)\nRI - Response Input <-> connected from downlink's RO\n\nAll of the chips are basically sharing the same UART \"bus\". Flow control/bus arbitration is done using BI (Busy Input)/BO (Busy Output) signals. \nChip that wants to send the data out activates it's Busy Output signal which mutes all chips that are placed further in chain.\n\nChips have addresses derived from the state of address pins ADDR[7:0] which also determine the MSB value of starting 'nonce'. \nS1 has these equally spaced like 0x00, 0x08, 0x10 … 0xf8, so that each chip covers different (and equal in size, 0x07FFFFFF) area of nocne value search."
+		(exclude_from_sim no)
+		(at 125.984 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+			(href "https://mightydevices.com/index.php/2018/02/reverse-engineering-antminer-s1/")
+		)
+		(uuid "c8441a92-bc7c-4728-8bc8-85cfd51dd2f9")
+	)
+	(text "radiateur 120x56\nhttps://fr.aliexpress.com/item/1005001368115718.html?spm=a2g0o.productlist.main.41.70b261a4BdkxPV&algo_pvid=cb86c257-5408-49ff-b28b-a15697fb39bc&utparam-url=scene%3Asearch%7Cquery_from%3A\nhttps://fr.aliexpress.com/item/32904595345.html?spm=a2g0o.productlist.main.23.70b261a4BdkxPV&algo_pvid=cb86c257-5408-49ff-b28b-a15697fb39bc&utparam-url=scene%3Asearch%7Cquery_from%3A\n"
+		(exclude_from_sim no)
+		(at 56.896 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cd5be35d-c411-4256-8987-9a720dab2ff9")
+	)
+	(label "BO6"
+		(at 194.31 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "00d7cd83-afc7-4254-866f-8695a76b5829")
+	)
+	(label "RSTO6"
+		(at 194.31 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06d45f6e-50b3-4e92-bec5-c2ca10fc249c")
+	)
+	(label "BO1"
+		(at 59.69 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "08fc6e1b-2184-4a9e-99ab-9f8e46171e9f")
+	)
+	(label "CLKO7"
+		(at 220.98 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b97d61a-1529-4588-acdd-02dcb9126edf")
+	)
+	(label "BO5"
+		(at 167.64 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1548632d-38e8-4f83-8f59-ae94a9858536")
+	)
+	(label "CO1"
+		(at 72.39 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "170eb6a0-c9a3-46f8-96c3-34757ad0317a")
+	)
+	(label "RSTO3"
+		(at 114.3 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "18ae5524-8599-4fc3-962b-bbdaead0aac3")
+	)
+	(label "BO1"
+		(at 72.39 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1c3b139f-4933-4b8a-be0f-686b6ea7d303")
+	)
+	(label "BO4"
+		(at 140.97 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1da7662d-4fef-45e6-afe0-53cdba6c2f17")
+	)
+	(label "RSTO7"
+		(at 220.98 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "27bff916-9ee8-432e-8b72-77d2b11c6fd5")
+	)
+	(label "RSTO4"
+		(at 140.97 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2dfcd5db-f22f-4475-86c1-2b1f5f6b1065")
+	)
+	(label "CO6"
+		(at 194.31 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "39135bef-833e-40f4-b47f-1fd1ab2188ea")
+	)
+	(label "RI4"
+		(at 140.97 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3be91606-1f89-4579-bb1c-1e90d615f3be")
+	)
+	(label "CLKO3"
+		(at 114.3 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d33f789-2209-48ec-a305-86e8fbbcfee9")
+	)
+	(label "RSTO2"
+		(at 87.63 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f430d1b-d806-4d09-ada5-cd9d88578bc4")
+	)
+	(label "RI7"
+		(at 220.98 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4a77b2bc-dd17-4d7b-9514-1d34fef0b81f")
+	)
+	(label "CLKO5"
+		(at 167.64 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d107cc3-7b49-45a5-8dc0-dec6b4c15348")
+	)
+	(label "RI1"
+		(at 72.39 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "65e6d72a-4dea-472a-a76a-30c8486c0f68")
+	)
+	(label "CO5"
+		(at 167.64 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "694eaca5-e3f6-4672-9300-78cb082910af")
+	)
+	(label "CO7"
+		(at 220.98 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6a260f99-b45f-464b-a7e6-f074d120ef87")
+	)
+	(label "CO2"
+		(at 87.63 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "71b52b9a-3af6-434d-877b-8a396bf388ac")
+	)
+	(label "BO2"
+		(at 87.63 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "73c7dee1-0c45-4c41-bc10-0718b233aa22")
+	)
+	(label "RI5"
+		(at 167.64 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7bf3d429-a7dd-423d-984b-588e9d0dab7d")
+	)
+	(label "CLKO1"
+		(at 72.39 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7c064dd0-8d6a-4e1a-b912-f6783124b1c7")
+	)
+	(label "BO7"
+		(at 220.98 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8add289b-f2cd-408f-a389-ae3651223f46")
+	)
+	(label "RI02"
+		(at 87.63 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8cc3cf48-f213-4c73-a016-8e41bc387536")
+	)
+	(label "CO4"
+		(at 140.97 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b10a1bf8-5022-4a27-ac53-4d0b00444deb")
+	)
+	(label "RI3"
+		(at 114.3 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b1c5653e-2448-4820-bb72-41d460f00240")
+	)
+	(label "CLKO4"
+		(at 140.97 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b66c91e0-482f-4b2b-9a8a-744390a2bed4")
+	)
+	(label "CLKO2"
+		(at 87.63 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c6cd3e64-b626-4e42-96ec-bf556f1fb0db")
+	)
+	(label "CLKO1"
+		(at 59.69 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c738ef44-f55a-4ef3-80c7-3f913383d845")
+	)
+	(label "RSTO5"
+		(at 167.64 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c7be13e5-68dc-4489-8f6f-1e46ffbcb1f7")
+	)
+	(label "CO1"
+		(at 59.69 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cae558c7-d2b5-4913-8b42-a6c617cfbea4")
+	)
+	(label "CO3"
+		(at 114.3 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d0adb912-a615-4c68-8ac9-008bc78b1a7e")
+	)
+	(label "RSTO1"
+		(at 72.39 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d7e7efe9-cb6d-4714-8d4b-29facea2e66d")
+	)
+	(label "BO3"
+		(at 114.3 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dbfd8928-53fe-4f5a-b0ff-aab31fb255a2")
+	)
+	(label "RI6"
+		(at 194.31 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ecea8dbe-2fab-439e-b56b-6f1ed00b274f")
+	)
+	(label "CLKO6"
+		(at 194.31 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f55042e8-cc82-4ed5-a64a-be8cdd11a3f2")
+	)
+	(label "RI1"
+		(at 59.69 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f693afd3-540a-4207-9215-5544859d82e3")
+	)
+	(label "RSTO1"
+		(at 59.69 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fd017f49-fdda-4067-8a11-5074310638a7")
+	)
+	(hierarchical_label "CLKO"
+		(shape output)
+		(at 257.81 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "04a60bc5-6a25-4545-9290-bcd36165d68c")
+	)
+	(hierarchical_label "CLKI"
+		(shape input)
+		(at 25.4 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0fd091b9-2c61-4c73-bdaa-4056ee913d32")
+	)
+	(hierarchical_label "CO"
+		(shape output)
+		(at 257.81 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3ce4d7ae-7c05-48f6-88ed-937fd88233f0")
+	)
+	(hierarchical_label "RSTO"
+		(shape output)
+		(at 257.81 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "66861b73-6f03-4b0e-a5ff-f6e24fe27383")
+	)
+	(hierarchical_label "CI"
+		(shape input)
+		(at 25.4 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "89d42908-1160-439e-9b88-44cd06aee9f6")
+	)
+	(hierarchical_label "RI"
+		(shape input)
+		(at 257.81 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a4e63814-037f-4106-9f93-edc683f7f6a5")
+	)
+	(hierarchical_label "RST_n"
+		(shape input)
+		(at 25.4 69.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cd159e70-08b0-482f-be1d-badb9994f171")
+	)
+	(hierarchical_label "BO"
+		(shape output)
+		(at 257.81 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e66d6563-cbcf-4957-a3e0-7f285e7fd9f3")
+	)
+	(hierarchical_label "BI"
+		(shape input)
+		(at 25.4 80.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e7227c1e-6d1b-4cda-a519-016209998304")
+	)
+	(hierarchical_label "RO"
+		(shape output)
+		(at 25.4 74.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f35f8d63-fb87-4385-8931-da26c5b751ed")
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 64.77 105.41 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "0463bd2b-b4cb-4e2b-b37d-48f406f54c99")
+		(property "Reference" "TP21"
+			(at 58.42 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 59.055 104.1401 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 64.77 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c85869d0-cf40-4ad2-a815-9cb51b653e0f")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(reference "TP21")
+					(unit 1)
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(reference "TP16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 64.77 102.87 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "0e7ebcb0-339d-4d0b-9fb9-f4a28ef5e9a6")
+		(property "Reference" "TP20"
+			(at 58.42 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 59.055 101.6001 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 64.77 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "324c5418-5049-4876-a38b-e5ae62ab4236")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(reference "TP20")
+					(unit 1)
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(reference "TP15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 64.77 95.25 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "47419b8a-9e14-44b2-b0ae-79e773a428b2")
+		(property "Reference" "TP17"
+			(at 58.42 95.25 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 59.055 96.5199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 64.77 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b092ce65-8940-4820-9af9-9010ddf3f5a8")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(reference "TP17")
+					(unit 1)
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(reference "TP12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 64.77 100.33 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "74fe0618-d678-4264-9b68-52a63bf7a8af")
+		(property "Reference" "TP19"
+			(at 58.42 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 59.055 101.5999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 64.77 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "23efe396-8025-454e-b18f-f183a4f14711")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(reference "TP19")
+					(unit 1)
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(reference "TP14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 64.77 97.79 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "8998416a-b817-48a5-918e-47d1b2e8c7fa")
+		(property "Reference" "TP18"
+			(at 58.42 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 59.055 96.5201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 64.77 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 64.77 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a8ada43-158a-4515-afe9-807f9d6e7772")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(reference "TP18")
+					(unit 1)
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(reference "TP13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 67.31)
+		(size 16.51 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 67 166 255 1.0000)
+		)
+		(uuid "010c0b55-1cf3-4cf3-953d-54b6aa2634bd")
+		(property "Sheetname" "BM1366-0"
+			(at 41.91 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BM1366.kicad_sch"
+			(at 41.91 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CLKO" output
+			(at 58.42 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3203c7cd-36ce-406e-95bf-546ce9e50ba1")
+		)
+		(pin "RO" output
+			(at 41.91 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fb8c25a4-2cb6-4344-878c-beec6b745cb5")
+		)
+		(pin "CO" output
+			(at 58.42 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "23d806dc-f21a-4d55-aea5-34211af379aa")
+		)
+		(pin "BO" output
+			(at 58.42 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8e158715-523a-43c2-bf11-69b1dea83924")
+		)
+		(pin "RSTO_n" output
+			(at 58.42 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "dfbc92a0-0950-49d0-ba85-afd349edf949")
+		)
+		(pin "CLKI" input
+			(at 41.91 72.39 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ebe0de0f-9ef7-4569-8c10-302a4598493e")
+		)
+		(pin "CI" input
+			(at 41.91 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1f03bcc4-7e9d-4570-a4ac-8d93f7f59d80")
+		)
+		(pin "RI" input
+			(at 58.42 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b02ec6c2-ea57-49d7-bfec-3435f18d84f9")
+		)
+		(pin "RST_n" input
+			(at 41.91 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "67d8901a-a7df-43a1-a739-e367573aa815")
+		)
+		(pin "BI" input
+			(at 41.91 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "07279135-ecb8-4b0e-9a06-6dc1c74084ab")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(page "5")
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 228.6 67.31)
+		(size 16.51 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 67 166 255 1.0000)
+		)
+		(uuid "802b77e6-6258-40af-b096-7d76044d365a")
+		(property "Sheetname" "BM1366-7"
+			(at 228.6 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BM1366.kicad_sch"
+			(at 228.6 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CLKO" output
+			(at 245.11 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b936e8e3-a7ee-47f8-acb7-6f2ca06c7852")
+		)
+		(pin "RO" output
+			(at 228.6 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "04260e0d-cd27-4013-a9cb-ced91a20ce45")
+		)
+		(pin "CO" output
+			(at 245.11 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2bc0b054-8c43-4e03-b98e-c6eeacdcb8e0")
+		)
+		(pin "BO" output
+			(at 245.11 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5591415f-6650-4714-9519-1bf29e03aa29")
+		)
+		(pin "RSTO_n" output
+			(at 245.11 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bd56ebc4-5c95-4b79-8838-1e7d7aded3dc")
+		)
+		(pin "CLKI" input
+			(at 228.6 72.39 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "84b9bafa-f9a4-4e88-93f5-dd0ddd616d68")
+		)
+		(pin "CI" input
+			(at 228.6 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "49d0446e-3356-4472-a016-73475e8b48a3")
+		)
+		(pin "RI" input
+			(at 245.11 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "14b3c9a8-9c42-4bdc-9fd1-b78c10e60c4b")
+		)
+		(pin "RST_n" input
+			(at 228.6 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ebdaa870-3392-4182-829a-d2f5cc13bc28")
+		)
+		(pin "BI" input
+			(at 228.6 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2b241562-d340-496a-b535-53bba9ffcf39")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(page "13")
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(page "21")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 67.31)
+		(size 16.51 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 67 166 255 1.0000)
+		)
+		(uuid "a2b594db-d117-4b15-8e3d-d502c12410fb")
+		(property "Sheetname" "BM1366-5"
+			(at 175.26 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BM1366.kicad_sch"
+			(at 175.26 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CLKO" output
+			(at 191.77 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "85065d22-d160-4341-b0df-e05c3237038c")
+		)
+		(pin "RO" output
+			(at 175.26 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a454edbf-f868-4d38-8648-88e75a70f9c7")
+		)
+		(pin "CO" output
+			(at 191.77 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2ebd1a97-1c93-45d3-82b9-857a84382cbf")
+		)
+		(pin "BO" output
+			(at 191.77 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "dfc3c53a-4a03-437b-8d5a-d66f1113922d")
+		)
+		(pin "RSTO_n" output
+			(at 191.77 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "997d9c96-7921-4d11-93dd-c0e075077ac7")
+		)
+		(pin "CLKI" input
+			(at 175.26 72.39 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c0e45422-e8e8-44bb-bafe-e4ff864ff6c7")
+		)
+		(pin "CI" input
+			(at 175.26 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "88bf9095-0076-42b7-87df-9934b3e744f8")
+		)
+		(pin "RI" input
+			(at 191.77 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "c9ec010c-885e-451f-890d-98fbc12ad6de")
+		)
+		(pin "RST_n" input
+			(at 175.26 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "55952ae5-7e91-433a-8724-8a72827c8f48")
+		)
+		(pin "BI" input
+			(at 175.26 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "68cc345a-7a0d-4538-b424-fc0305947b6e")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(page "11")
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 67.31)
+		(size 16.51 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 67 166 255 1.0000)
+		)
+		(uuid "c5d6acbe-6daa-4ffc-99ab-587e81cc4cd2")
+		(property "Sheetname" "BM1366-4"
+			(at 148.59 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BM1366.kicad_sch"
+			(at 148.59 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CLKO" output
+			(at 165.1 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e8ff05e3-41f8-4c38-87be-58a2a548997e")
+		)
+		(pin "RO" output
+			(at 148.59 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8e54a27b-7741-4bb9-8f96-5a6581fdb7c6")
+		)
+		(pin "CO" output
+			(at 165.1 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "737146fd-75e4-4928-8e14-20d75b94fb63")
+		)
+		(pin "BO" output
+			(at 165.1 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d8b5f80f-f31a-4f52-9a37-9643ff7ae60e")
+		)
+		(pin "RSTO_n" output
+			(at 165.1 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9ff5dcd8-a6de-4169-95b4-163682455cb0")
+		)
+		(pin "CLKI" input
+			(at 148.59 72.39 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "4db32298-f053-451d-a234-288cda95056a")
+		)
+		(pin "CI" input
+			(at 148.59 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "555a362f-e9d8-4d48-b63d-22b1a9ae9dfe")
+		)
+		(pin "RI" input
+			(at 165.1 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1ef4093c-6c2c-47bf-bb16-1e127493c8dc")
+		)
+		(pin "RST_n" input
+			(at 148.59 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8ae27970-4e47-40c9-95e1-67b5b3d8dfdc")
+		)
+		(pin "BI" input
+			(at 148.59 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8c4779b8-63d8-4931-a266-037512622c99")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(page "10")
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 201.93 67.31)
+		(size 16.51 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 67 166 255 1.0000)
+		)
+		(uuid "cf192fe3-ad38-4374-aa28-840ba7b6734c")
+		(property "Sheetname" "BM1366-6"
+			(at 201.93 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BM1366.kicad_sch"
+			(at 201.93 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CLKO" output
+			(at 218.44 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b538effe-93c1-47a0-a2b0-b0e51edd4cf6")
+		)
+		(pin "RO" output
+			(at 201.93 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a6b15299-f9fb-44fb-8ba3-b38a6f0f111a")
+		)
+		(pin "CO" output
+			(at 218.44 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "de71e334-be40-4a9e-b132-58eae7db93bb")
+		)
+		(pin "BO" output
+			(at 218.44 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e516f03b-3ec7-4eaa-b795-0bcffe7e5a3c")
+		)
+		(pin "RSTO_n" output
+			(at 218.44 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bb8cd01e-6fd6-4cf0-8ead-8675526be182")
+		)
+		(pin "CLKI" input
+			(at 201.93 72.39 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cc675d48-b95e-4d68-90bb-8b3d35cf42c1")
+		)
+		(pin "CI" input
+			(at 201.93 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e1effb78-d1fe-42b5-ac1f-045e271746e2")
+		)
+		(pin "RI" input
+			(at 218.44 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d8d731f2-bcb7-48e3-b6ef-6ee3cc636e4c")
+		)
+		(pin "RST_n" input
+			(at 201.93 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f92107a7-7d66-4335-9e50-384645dd0333")
+		)
+		(pin "BI" input
+			(at 201.93 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d4f382b4-224f-481c-82d0-bce22e4f06d6")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(page "12")
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 67.31)
+		(size 16.51 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 67 166 255 1.0000)
+		)
+		(uuid "d41fd89e-85b3-4f4e-a22f-b08e63a06969")
+		(property "Sheetname" "BM1366-3"
+			(at 121.92 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BM1366.kicad_sch"
+			(at 121.92 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CLKO" output
+			(at 138.43 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b6a670ce-2dcc-4066-8013-3778f79e772f")
+		)
+		(pin "RO" output
+			(at 121.92 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9f7948ba-0697-460b-bd94-8f43e49b307c")
+		)
+		(pin "CO" output
+			(at 138.43 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "dfddeb74-1586-4835-9805-19b8a69924ea")
+		)
+		(pin "BO" output
+			(at 138.43 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ad5f1c47-96c0-45df-a018-756064a7800b")
+		)
+		(pin "RSTO_n" output
+			(at 138.43 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "67b77f09-f13d-4980-8e56-f3833058f704")
+		)
+		(pin "CLKI" input
+			(at 121.92 72.39 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9fd97e42-3255-4d7b-9783-17afbb781e3c")
+		)
+		(pin "CI" input
+			(at 121.92 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3b208225-0763-4cbf-9346-3efdd689a5d8")
+		)
+		(pin "RI" input
+			(at 138.43 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "88106916-51ab-4cc2-8f65-93e3f5609911")
+		)
+		(pin "RST_n" input
+			(at 121.92 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3e17c8d3-f233-4202-a63c-456509eb71f3")
+		)
+		(pin "BI" input
+			(at 121.92 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "53e2fb64-c4b2-4257-a0d3-e2e17ca645c5")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(page "8")
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.58 67.31)
+		(size 16.51 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 67 166 255 1.0000)
+		)
+		(uuid "d978a57a-1733-4a45-a317-f8193e3e13af")
+		(property "Sheetname" "BM1366-1"
+			(at 68.58 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BM1366.kicad_sch"
+			(at 68.58 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CLKO" output
+			(at 85.09 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "edd3a900-80fe-47de-a45f-26bfbfe2ac94")
+		)
+		(pin "RO" output
+			(at 68.58 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e6972bc7-4faf-45e1-a3a5-a74c2347238b")
+		)
+		(pin "CO" output
+			(at 85.09 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9a83813c-f78a-48a3-b0c9-2234658f25a9")
+		)
+		(pin "BO" output
+			(at 85.09 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b750489f-3745-414a-bf95-2d131f182456")
+		)
+		(pin "RSTO_n" output
+			(at 85.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "aa59a167-23f4-49fb-b46b-20236d007d10")
+		)
+		(pin "CLKI" input
+			(at 68.58 72.39 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ebfb93ed-5713-4bf5-88a5-76667669abcf")
+		)
+		(pin "CI" input
+			(at 68.58 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f5f42c85-8d4e-4400-9255-c5a5dc894300")
+		)
+		(pin "RI" input
+			(at 85.09 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0cdb23bf-cda8-47f4-9007-16ead3a70f4b")
+		)
+		(pin "RST_n" input
+			(at 68.58 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "aa5faa90-b3fd-4e1f-8604-5a1274511bd1")
+		)
+		(pin "BI" input
+			(at 68.58 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "401e5883-53f6-449b-bb75-caa3a2668734")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(page "6")
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 95.25 67.31)
+		(size 16.51 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 67 166 255 1.0000)
+		)
+		(uuid "fbeec9e6-c74b-4212-8ad3-69c4bb62315b")
+		(property "Sheetname" "BM1366-2"
+			(at 95.25 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BM1366.kicad_sch"
+			(at 95.25 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CLKO" output
+			(at 111.76 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a21d4971-b469-4ca2-8984-19317e531816")
+		)
+		(pin "RO" output
+			(at 95.25 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "be48bd00-22da-48db-812c-2a28c7b4054c")
+		)
+		(pin "CO" output
+			(at 111.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "032c34e2-6096-4fc0-a469-6d0bacf6aa8a")
+		)
+		(pin "BO" output
+			(at 111.76 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "82e3ebcf-b22c-4374-a040-37107e0f4498")
+		)
+		(pin "RSTO_n" output
+			(at 111.76 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5c6a3f07-723b-442c-8047-c006b99a6f5e")
+		)
+		(pin "CLKI" input
+			(at 95.25 72.39 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fe025e63-0d0f-4a11-b31d-3b0f0ffa8fe4")
+		)
+		(pin "CI" input
+			(at 95.25 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cbb4abb9-d87d-4104-bde2-111f72b05a2f")
+		)
+		(pin "RI" input
+			(at 111.76 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3266f620-163f-4945-90a6-f85d7c7149ec")
+		)
+		(pin "RST_n" input
+			(at 95.25 69.85 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "da7bf51d-87f7-4c14-bfaa-a800028df38c")
+		)
+		(pin "BI" input
+			(at 95.25 80.01 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "de7535d8-031e-4748-8c98-7f6449cc7f17")
+		)
+		(instances
+			(project "AsicsBoard - 16xBM1366 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/befaafc8-85ab-4b06-8f02-b391d2ce8271"
+					(page "7")
+				)
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d/eae53b9b-124f-4859-a154-1fb348a10749/258c3083-ff75-4a3b-bdc7-9dadb2d68758"
+					(page "16")
+				)
+			)
+		)
+	)
+)

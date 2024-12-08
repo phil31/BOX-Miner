@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EKO_Miner")(type "KiCad")(uri "${KIPRJMOD}/EKO_Miner.kicad_sym")(options "")(descr ""))
+  (lib (name "bitaxe")(type "KiCad")(uri "D:/EKOminer/bitaxe miner/bitaxe-master/bitaxe-master/bitaxe.kicad_sym")(options "")(descr ""))
+)
