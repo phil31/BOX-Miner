@@ -18,7 +18,7 @@ Miner Box Supports up to 3 ASIC Hashcards. An ATX PSU is required.
 
 
 #### Power board : 
-- designed with TPS53667 / 5 Phases / 0.5 to 2.5V, up to 300Watts
+- designed with TPS53667 / 5 Phases / 0.5 to 2.5V, up to 380Watts
 - 6 layers PCB - Outer / Inner Copper Weight: 2 oz
 
 ![hashcard](https://github.com/phil31/BOX-Miner/blob/main/images/PowerBoard_TPS53667_TOP.jpg)
