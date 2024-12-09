@@ -7883,7 +7883,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d9080584-b05c-473f-9000-acaea43220f9")
 		(property "Reference" "U4"
 			(at 140.6241 72.39 0)
@@ -7894,8 +7893,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 141.986 74.93 0)
+		(property "Value" "BM1368"
+			(at 146.05 73.914 0)
 			(effects
 				(font
 					(size 1.27 1.27)

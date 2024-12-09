@@ -1,4 +1,4 @@
-24195039481988659
+24201970333813792
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56593,7 +56593,14 @@ CSD95472Q5MC
 CSD95491Q5MC 
 0
 24
-12
+13
+EKO_Miner_ASIClib
+CSD95490Q5MC
+
+CSD95490Q5MC 
+0
+24
+13
 EKO_Miner_ASIClib
 CSD95491Q5MC
 
@@ -56680,6 +56687,20 @@ Logo NerdEKO-30x10
 0
 EKO_Miner_ASIClib
 MCP1826S
+
+
+0
+4
+4
+EKO_Miner_ASIClib
+MOLEX_38969-0002
+
+
+0
+2
+2
+EKO_Miner_ASIClib
+MOLEX_38969-0004
 
 
 0
@@ -56825,6 +56846,13 @@ TPS53667RTAR
 0
 53
 41
+EKO_Miner_ASIClib
+TPSM863257RDXR
+
+
+0
+19
+19
 EKO_Miner_ASIClib
 VQFN-14_REL0014B
 
