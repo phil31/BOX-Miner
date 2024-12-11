@@ -2888,25 +2888,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 158.75 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 158.75 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 158.75 35.56 0)
 			(effects
 				(font
@@ -3027,16 +3009,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-33.0LRCT-ND"
-			(at 195.58 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "RC0402FR-0733RL"
+		(property "P/N MOUSER" "791-WR04X33R0FTL"
 			(at 195.58 90.17 0)
 			(effects
 				(font
@@ -3114,7 +3087,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 115.57 69.215 90)
 			(effects
 				(font
@@ -3150,16 +3123,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 116.84 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 116.84 68.58 0)
 			(effects
 				(font
@@ -3273,16 +3237,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "1292-1639-1-ND"
-			(at 118.11 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "0402X104K100CT"
+		(property "P/N MOUSER" "791-SH15B104K160CT"
 			(at 118.11 35.56 0)
 			(effects
 				(font
@@ -3562,7 +3517,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 200.66 69.215 90)
 			(effects
 				(font
@@ -3598,16 +3553,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 201.93 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 201.93 68.58 0)
 			(effects
 				(font
@@ -3788,7 +3734,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 90.17 69.215 90)
 			(effects
 				(font
@@ -3824,16 +3770,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 91.44 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 91.44 68.58 0)
 			(effects
 				(font
@@ -3945,16 +3882,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-33.0LRCT-ND"
-			(at 195.58 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "RC0402FR-0733RL"
+		(property "P/N MOUSER" "791-WR04X33R0FTL"
 			(at 195.58 95.25 0)
 			(effects
 				(font
@@ -4069,24 +3997,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 120.65 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PACKAGE_ID" ""
-			(at 120.65 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" ""
 			(at 120.65 72.39 0)
 			(effects
 				(font
@@ -4355,7 +4265,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 179.07 127 0)
 			(effects
 				(font
@@ -4391,16 +4301,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 177.8 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 177.8 123.19 0)
 			(effects
 				(font
@@ -4716,16 +4617,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-33.0LRCT-ND"
-			(at 87.63 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "RC0402FR-0733RL"
+		(property "P/N MOUSER" "791-WR04X33R0FTL"
 			(at 87.63 92.71 0)
 			(effects
 				(font
@@ -4837,7 +4729,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" ""
+		(property "P/N MOUSER" "708-RNCP0402FTD1K00"
 			(at 73.66 119.38 0)
 			(effects
 				(font
@@ -4915,7 +4807,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 167.005 127 0)
 			(effects
 				(font
@@ -4951,16 +4843,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 166.37 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 166.37 123.19 0)
 			(effects
 				(font
@@ -5240,7 +5123,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 77.47 69.215 90)
 			(effects
 				(font
@@ -5276,16 +5159,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 78.74 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 78.74 68.58 0)
 			(effects
 				(font
@@ -5566,7 +5440,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 187.96 69.215 90)
 			(effects
 				(font
@@ -5602,16 +5476,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 189.23 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 189.23 68.58 0)
 			(effects
 				(font
@@ -5929,16 +5794,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "1292-1639-1-ND"
-			(at 128.27 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "0402X104K100CT"
+		(property "P/N MOUSER" "791-SH15B104K160CT"
 			(at 128.27 35.56 0)
 			(effects
 				(font
@@ -6016,7 +5872,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 97.79 127 0)
 			(effects
 				(font
@@ -6052,16 +5908,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 96.52 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 96.52 123.19 0)
 			(effects
 				(font
@@ -6173,16 +6020,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "311-33.0LRCT-ND"
-			(at 195.58 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "RC0402FR-0733RL"
+		(property "P/N MOUSER" "791-WR04X33R0FTL"
 			(at 195.58 97.79 0)
 			(effects
 				(font
@@ -6361,7 +6199,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 139.7 38.735 0)
 			(effects
 				(font
@@ -6397,16 +6235,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 138.43 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 138.43 35.56 0)
 			(effects
 				(font
@@ -6585,7 +6414,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 149.86 38.735 0)
 			(effects
 				(font
@@ -6621,16 +6450,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 148.59 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 148.59 35.56 0)
 			(effects
 				(font
@@ -6708,7 +6528,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 162.56 69.215 90)
 			(effects
 				(font
@@ -6744,16 +6564,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 163.83 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 163.83 68.58 0)
 			(effects
 				(font
@@ -6932,7 +6743,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 102.87 69.215 90)
 			(effects
 				(font
@@ -6968,16 +6779,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 104.14 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 104.14 68.58 0)
 			(effects
 				(font
@@ -7258,7 +7060,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 175.26 69.215 90)
 			(effects
 				(font
@@ -7294,16 +7096,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 176.53 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 176.53 68.58 0)
 			(effects
 				(font
@@ -7381,7 +7174,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/6.3V"
 			(at 109.22 127 0)
 			(effects
 				(font
@@ -7417,16 +7210,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "587-5514-1-ND"
-			(at 107.95 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "P/N MOUSER" "81-GRM155R70J105KA2D"
 			(at 107.95 123.19 0)
 			(effects
 				(font

@@ -1,4 +1,4 @@
-24095684187752199
+24203706027735409
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6754,6 +6754,13 @@ RC Connector XT60
 0
 4
 2
+Connector_Amphenol
+AMPHENOL_10018784-10210TLF
+PCI EXPRESS CARD CONNECTOR ,64 PINS.
+
+0
+36
+36
 Connector_Amphenol
 Amphenol_M8S-03PMMR-SF8001
 M8 Male connector for panel, 90° PCB mount (https://www.amphenolltw.com/2012download/2D%20PDF/03_M%20Series%20Sensor%20Connectors/M8S-XXPMMR-SF8001.pdf)
@@ -43512,6 +43519,13 @@ Surface mounted socket strip SMD 2x40 2.54mm double row
 80
 80
 Connector_RJ
+LMJ2138814SOL1T1C
+1 Port RJ45 Connector Through Hole 10/100/1000 Base-T, https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf#page=3
+RJ45 ethernet
+0
+16
+15
+Connector_RJ
 RJ9_Evercom_5301-440xxx_Horizontal
 Evercom 5301-4P4C RJ9 receptacle, unshielded, https://datasheet.lcsc.com/lcsc/2207051802_EVERCOM-5301-4P4C_C3097715.pdf
 RJ9 Connector tab down
@@ -56531,6 +56545,377 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+EKO_Miner_ASIClib
+AMPHENOL_10018784-10210TLF
+PCI EXPRESS CARD CONNECTOR ,64 PINS.
+
+0
+36
+36
+EKO_Miner_ASIClib
+BM1366
+
+
+0
+30
+30
+EKO_Miner_ASIClib
+BM1368
+
+
+0
+32
+32
+EKO_Miner_ASIClib
+BM1370
+
+
+0
+32
+32
+EKO_Miner_ASIClib
+BM1397
+32-SON (DFN), 0.48 mm pitch for BM1387
+
+0
+34
+34
+EKO_Miner_ASIClib
+Barrier Terminal 01x04
+
+
+0
+4
+4
+EKO_Miner_ASIClib
+CSD95472Q5MC
+
+CSD95491Q5MC 
+0
+24
+13
+EKO_Miner_ASIClib
+CSD95490Q5MC
+
+CSD95490Q5MC 
+0
+24
+13
+EKO_Miner_ASIClib
+CSD95491Q5MC
+
+CSD95491Q5MC 
+0
+24
+13
+EKO_Miner_ASIClib
+Carte 8xBM1366 V1.00
+
+
+0
+9
+1
+EKO_Miner_ASIClib
+EKO_ESP_ISP
+
+
+0
+6
+6
+EKO_Miner_ASIClib
+EKO_NetTie-4_THT_Pad1.0mm
+Net tie, 4 pin, 1.0mm round THT pads
+net tie
+0
+4
+4
+EKO_Miner_ASIClib
+INDM1031X765N
+7.65mm x 7.4mm
+Inductor
+0
+2
+2
+EKO_Miner_ASIClib
+INDM10276X760N
+7.65mm x 7.4mm
+Inductor
+0
+2
+2
+EKO_Miner_ASIClib
+LAN8720_VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
+VQFN, 24 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/product-documents/package-drawings/24L-VQFN%E2%80%934x4x0.9mm-MJ-C04-00143b.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+35
+25
+EKO_Miner_ASIClib
+LCD LBS147TC-IG01
+
+
+0
+14
+13
+EKO_Miner_ASIClib
+LILYGO Tdisplay S3
+
+
+0
+24
+24
+EKO_Miner_ASIClib
+LMJ2138814SOL1T1C
+1 Port RJ45 Connector Through Hole 10/100/1000 Base-T, https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf#page=3
+RJ45 ethernet
+0
+14
+13
+EKO_Miner_ASIClib
+LQFN40-CLIP
+VQFN, 46 Pin (http://www.ti.com/lit/ds/symlink/lp5036.pdf#page=59), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+60
+41
+EKO_Miner_ASIClib
+Logo NerdEKO-30x10
+
+
+0
+0
+0
+EKO_Miner_ASIClib
+MCP1826S
+
+
+0
+4
+4
+EKO_Miner_ASIClib
+MOLEX_38969-0002
+
+
+0
+2
+2
+EKO_Miner_ASIClib
+MOLEX_38969-0004
+
+
+0
+4
+4
+EKO_Miner_ASIClib
+Molex_Mini-Fit_Jr_5566-06A2_2x03_P4.20mm_Vertical
+Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5566-06A2, example for new mpn: 39-28-906x, 3 Pins per row, Mounting: Snap-in Plastic Peg PCB Lock (http://www.molex.com/pdm_docs/sd/039289068_sd.pdf), generated with kicad-footprint-generator
+connector Molex Mini-Fit_Jr side entryplastic_peg
+0
+6
+6
+EKO_Miner_ASIClib
+Molex_Mini-Fit_Jr_5566-08A2_2x04_P4.20mm_Vertical
+
+
+0
+8
+8
+EKO_Miner_ASIClib
+Molex_Mini-Fit_Jr_5566-20A_2x10_P4.20mm_Vertical
+Molex Mini-Fit Jr. Power Connectors, old mpn/engineering number: 5566-20A, example for new mpn: 39-28-x20x, 10 Pins per row, Mounting:  (http://www.molex.com/pdm_docs/sd/039281043_sd.pdf), generated with kicad-footprint-generator
+connector Molex Mini-Fit_Jr side entry
+0
+20
+20
+EKO_Miner_ASIClib
+MountingHole_4.2mm_SMTSO_Pad_Via
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+9
+1
+EKO_Miner_ASIClib
+OSC_SMD_3.2x2.5mm
+
+
+0
+4
+4
+EKO_Miner_ASIClib
+QFN50P350X250X80-17N
+
+
+0
+19
+16
+EKO_Miner_ASIClib
+QFN50P600X600X80-41N
+
+
+0
+41
+41
+EKO_Miner_ASIClib
+QFN50P700X700X80-49N
+
+
+0
+49
+49
+EKO_Miner_ASIClib
+R_5329
+
+
+0
+2
+2
+EKO_Miner_ASIClib
+SHDR8W125P550X420_2X4_1800X960X1310P
+5566-08A
+Connector
+0
+8
+8
+EKO_Miner_ASIClib
+SMTSO-M3-3ET
+
+
+0
+9
+1
+EKO_Miner_ASIClib
+SMTSO-M3-10ET
+
+
+0
+9
+1
+EKO_Miner_ASIClib
+SON40P350X450X100-8N
+
+
+0
+19
+19
+EKO_Miner_ASIClib
+SON65P200X200X80-7N
+
+
+0
+9
+9
+EKO_Miner_ASIClib
+SOP63P602X175-16N
+
+
+0
+16
+16
+EKO_Miner_ASIClib
+SOP65P640X120-14N
+
+
+0
+14
+14
+EKO_Miner_ASIClib
+SOT50P160X60-6N
+
+
+0
+6
+6
+EKO_Miner_ASIClib
+SOT95P270X145-6N
+
+
+0
+6
+6
+EKO_Miner_ASIClib
+SOT230P700X180-4N
+
+
+0
+4
+4
+EKO_Miner_ASIClib
+TPS40305
+
+
+0
+15
+11
+EKO_Miner_ASIClib
+TPS53667RTAR
+
+
+0
+53
+41
+EKO_Miner_ASIClib
+TPSM863257RDXR
+
+
+0
+19
+19
+EKO_Miner_ASIClib
+VQFN-14_REL0014B
+
+
+0
+20
+14
+EKO_Miner_ASIClib
+VQFN14_REL_TEX
+
+INA745BIRELR 
+0
+14
+14
+EKO_Miner_ASIClib
+VQFN14_REM_TEX
+
+PINA740BIREMR 
+0
+14
+14
+EKO_Miner_ASIClib
+WS2812B2020
+<b>WS2812B-2020-2</b><br>
+
+0
+4
+4
+EKO_Miner_ASIClib
+WT32-ETH01
+
+
+0
+26
+26
+EKO_Miner_ASIClib
+fuseholder_littlefuse_blok
+
+
+0
+2
+2
+EKO_Miner_ASIClib
+module ADS1115
+
+
+0
+10
+10
+EKO_Miner_ASIClib
+module_L298
+
+
+0
+15
+8
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -71512,6 +71897,13 @@ DFN NoLead 506AQ
 13
 9
 Package_DFN_QFN
+DFN-8-1EP_2x2mm_P0.5mm_EP0.7x1.3mm
+DFN, 8 Pin (https://www.onsemi.com/pub/Collateral/NUF4401MN-D.PDF#page=6), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+13
+9
+Package_DFN_QFN
 DFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm
 DFN, 8 Pin (https://www.qorvo.com/products/d/da007268), generated with kicad-footprint-generator ipc_noLead_generator.py
 DFN NoLead
@@ -71899,6 +72291,13 @@ VDFN DFN 0.65mm
 Package_DFN_QFN
 DFN-14-1EP_3x4mm_P0.5mm_EP1.7x3.3mm
 DE Package; 14-Lead Plastic DFN (4mm x 3mm) (see Linear Technology DFN_14_05-08-1708.pdf)
+DFN 0.5
+0
+23
+15
+Package_DFN_QFN
+DFN-14-1EP_4x4mm_P0.5mm_EP2.86x3.6mm
+DFN14, 4x4, 0.5P; CASE 506CM (see ON Semiconductor 506CM.PDF)
 DFN 0.5
 0
 23
@@ -75228,6 +75627,13 @@ TI RNR0011A
 0
 20
 11
+Package_DFN_QFN
+Texas_VSON-HR-8_1.5x2mm_P0.5mm
+Texas  VSON-HR, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62823.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VSON-HR NoLead
+0
+8
+8
 Package_DFN_QFN
 Texas_WQFN-MR-100_3x3-DapStencil
 http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=mpqf258&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=LPPD235&fileType=pdf
@@ -97593,3 +97999,38 @@ Varistor VF
 0
 2
 2
+WIFIPOWERlib
+CONV_LD10-23B05R2
+
+
+0
+4
+4
+WIFIPOWERlib
+CRYDOM_CX240D5
+
+
+0
+4
+4
+WIFIPOWERlib
+MP-LS15-13B09SS
+
+
+0
+6
+6
+WIFIPOWERlib
+SHT1x
+SHT1x
+SHT1x
+0
+8
+8
+WIFIPOWERlib
+VTX-214-005-109
+
+
+0
+4
+4

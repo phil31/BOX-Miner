@@ -1933,7 +1933,7 @@
 		(uuid "2988cf7c-3e2b-492f-8a61-a6557a3b8b65")
 	)
 	(junction
-		(at 99.06 172.72)
+		(at 100.33 172.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c967507-645d-42c1-8d23-5b428c723c06")
@@ -2118,7 +2118,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 172.72) (xy 107.95 172.72)
+			(xy 100.33 172.72) (xy 107.95 172.72)
 		)
 		(stroke
 			(width 0)
@@ -2248,7 +2248,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 186.69) (xy 99.06 182.88)
+			(xy 100.33 186.69) (xy 100.33 182.88)
 		)
 		(stroke
 			(width 0)
@@ -2338,7 +2338,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 172.72) (xy 99.06 172.72)
+			(xy 88.9 172.72) (xy 100.33 172.72)
 		)
 		(stroke
 			(width 0)
@@ -2648,7 +2648,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 172.72) (xy 99.06 175.26)
+			(xy 100.33 172.72) (xy 100.33 175.26)
 		)
 		(stroke
 			(width 0)
@@ -2791,17 +2791,6 @@
 			(justify left bottom)
 		)
 		(uuid "30405f1f-254b-4d47-a960-a21ff212d581")
-	)
-	(label "CLKI"
-		(at 151.765 101.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4b04b41d-a31d-4a46-833c-c98142c8d036")
 	)
 	(label "VSN"
 		(at 60.96 36.83 0)
@@ -3189,6 +3178,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 100.33 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0c4025d5-d51c-43d2-b951-ad2e72f707cb")
+		(property "Reference" "C4"
+			(at 101.346 135.636 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "100nF"
+			(at 101.346 137.668 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 100.33 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 100.33 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "791-SH15B104K160CT"
+			(at 100.33 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "af735d0d-5840-477f-a816-d31535bad64c")
+		)
+		(pin "2"
+			(uuid "fc386cee-6689-448d-b4b9-05b3e5834f27")
+		)
+		(instances
+			(project "AsicsBoard - 10xBM1370 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VDD")
 		(at 107.95 172.72 0)
 		(unit 1)
@@ -3471,7 +3538,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/16V"
 			(at 40.132 181.864 0)
 			(effects
 				(font
@@ -3507,16 +3574,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
-			(at 36.83 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" ""
+		(property "P/N MOUSER" "187-CL21B105KOFNFNE"
 			(at 36.83 179.07 0)
 			(effects
 				(font
@@ -3565,7 +3623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
+		(property "Footprint" "EKO_Miner_ASIClib:OSC_SMD_3.2x2.5mm"
 			(at 137.16 104.14 0)
 			(effects
 				(font
@@ -3592,16 +3650,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
-			(at 138.43 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" ""
+		(property "P/N MOUSER" "449-LFSPXO076024CUTT"
 			(at 138.43 102.87 0)
 			(effects
 				(font
@@ -3782,16 +3831,6 @@
 			)
 		)
 		(property "Price" "None"
-			(at 71.12 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MCP1826S-1802E/DB/Microchip/view-part/?ref=snap"
 			(at 71.12 138.43 0)
 			(effects
 				(font
@@ -4006,7 +4045,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 99.06 186.69 0)
+		(at 100.33 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4015,7 +4054,7 @@
 		(fields_autoplaced yes)
 		(uuid "9412584d-db68-4a81-b2d8-de8f97be1d34")
 		(property "Reference" "#PWR017"
-			(at 99.06 193.04 0)
+			(at 100.33 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4024,7 +4063,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 99.06 191.77 0)
+			(at 100.33 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4032,7 +4071,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 186.69 0)
+			(at 100.33 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4041,7 +4080,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 186.69 0)
+			(at 100.33 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4050,7 +4089,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 99.06 186.69 0)
+			(at 100.33 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4123,6 +4162,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "649-1012938390801ALF"
+			(at 46.99 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7b8d6e24-d323-4254-9db2-54fd2b16358f")
 		)
@@ -4151,6 +4199,84 @@
 			(project "AsicsBoard - 16xBM1368 - 01A"
 				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 100.33 179.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "96ad4781-5226-4e16-80ea-985030c0441a")
+		(property "Reference" "C3"
+			(at 101.346 175.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "100nF"
+			(at 101.346 177.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 100.33 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 100.33 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 100.33 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "791-SH15B104K160CT"
+			(at 100.33 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe19291a-aafc-4eec-9512-3f9367468067")
+		)
+		(pin "2"
+			(uuid "b2fbb847-27d3-47b5-aa5e-4abebc447a6f")
+		)
+		(instances
+			(project "AsicsBoard - 10xBM1370 - 01A"
+				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -4290,94 +4416,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 99.06 179.07 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ac4e4300-df7e-42df-9325-3eb93de965dd")
-		(property "Reference" "C3"
-			(at 100.33 177.165 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "1uF"
-			(at 100.33 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 99.06 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 99.06 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 99.06 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DK" ""
-			(at 99.06 179.07 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" ""
-			(at 99.06 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "951c3e26-1ce0-4726-ad41-4bf6d0ba7dd8")
-		)
-		(pin "2"
-			(uuid "3325553c-fa75-4c77-8e16-ba3d95a15b35")
-		)
-		(instances
-			(project "AsicsBoard - 16xBM1368 - 01A"
-				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d"
-					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 135.89 27.94 270)
 		(unit 1)
@@ -4431,16 +4469,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
-			(at 135.89 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" ""
+		(property "P/N MOUSER" "603-RT0805DRE0751RL"
 			(at 135.89 27.94 0)
 			(effects
 				(font
@@ -4548,7 +4577,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/16V"
 			(at 41.402 143.002 0)
 			(effects
 				(font
@@ -4584,16 +4613,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
-			(at 38.1 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" ""
+		(property "P/N MOUSER" "187-CL21B105KOFNFNE"
 			(at 38.1 139.7 0)
 			(effects
 				(font
@@ -4824,10 +4844,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c66d381c-d597-46ac-a5a5-82966ed3f54d")
 		(property "Reference" "TH2"
-			(at 127 46.0374 0)
+			(at 124.968 51.562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4836,7 +4855,7 @@
 			)
 		)
 		(property "Value" "RB103J0J"
-			(at 127 48.5774 0)
+			(at 118.872 53.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4940,6 +4959,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 46.99 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "649-1012938390801ALF"
 			(at 46.99 36.83 0)
 			(effects
 				(font
@@ -5074,7 +5102,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 148.59 110.49 0)
 			(effects
 				(font
@@ -5101,16 +5129,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
-			(at 148.59 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" ""
+		(property "P/N MOUSER" "791-SH15B104K160CT"
 			(at 148.59 110.49 0)
 			(effects
 				(font
@@ -5254,16 +5273,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
-			(at 135.89 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" ""
+		(property "P/N MOUSER" "603-RT0805DRE0751RL"
 			(at 135.89 35.56 0)
 			(effects
 				(font
@@ -5381,16 +5391,6 @@
 				(hide yes)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MCP1826S-1802E/DB/Microchip/view-part/?ref=snap"
-			(at 71.12 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "MP" "MCP1826S-1802E/DB"
 			(at 71.12 177.8 0)
 			(effects
@@ -5456,94 +5456,6 @@
 			(project "AsicsBoard - 16xBM1368 - 01A"
 				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d"
 					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 100.33 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fca627b7-9507-4a15-b86f-60c3d20dd8ef")
-		(property "Reference" "C4"
-			(at 101.6 137.795 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "1uF"
-			(at 102.235 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 100.33 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 100.33 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 100.33 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DK" ""
-			(at 100.33 139.7 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" ""
-			(at 100.33 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2012f0ec-3818-4aed-9b3f-7250e5dc5beb")
-		)
-		(pin "2"
-			(uuid "bdb693dc-8be0-4d3b-a540-b5f2de29c89e")
-		)
-		(instances
-			(project "AsicsBoard - 16xBM1368 - 01A"
-				(path "/3cb1ca80-ec7c-407a-b979-0acbe6bdb21d"
-					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -5623,10 +5535,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fece7943-75ed-44ae-bd9a-2511a18474c0")
 		(property "Reference" "TH1"
-			(at 113.03 46.0374 0)
+			(at 110.998 51.308 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5635,7 +5546,7 @@
 			)
 		)
 		(property "Value" "RB103J0J"
-			(at 113.03 48.5774 0)
+			(at 104.902 53.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)

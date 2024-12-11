@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.25,
-          "height": 0.5,
-          "width": 0.5
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -58,15 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|101348182|102008984|3c8c5acd-85d0-4f73-b6f5-f6be1c11e1ef|65ada66e-7065-4451-9aae-27ffad47d6ee",
-        "courtyards_overlap|102172502|101924298|35f3214f-9ae0-4640-88c0-2bcd08577d76|65ada66e-7065-4451-9aae-27ffad47d6ee",
-        "courtyards_overlap|102497434|103082164|35f3214f-9ae0-4640-88c0-2bcd08577d76|3c8c5acd-85d0-4f73-b6f5-f6be1c11e1ef",
-        "courtyards_overlap|202321348|72269983|29e0d5d1-7804-410e-8bd9-ea26e8439bb3|7038ba30-01e1-42eb-a153-cb4ea442f660",
-        "courtyards_overlap|66831869|114758811|400ca6b2-2fe0-400a-9f5b-0be92cdd4bf6|73eba97c-1468-4296-b2cf-bf32ad3f5fe9",
-        "courtyards_overlap|67571448|59096001|567e4712-589a-4624-b6ad-caba0752caca|9d57d860-4d5a-438f-a889-7306cc52125b",
-        "courtyards_overlap|78335978|101002623|8ec8f529-5969-41fe-a748-35a7a07bab6f|930eb558-2a94-4275-8995-ca14bc649fc2"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -76,7 +68,7 @@
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
-        "courtyards_overlap": "warning",
+        "courtyards_overlap": "ignore",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
@@ -106,11 +98,11 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "ignore",
-        "silk_overlap": "ignore",
+        "silk_overlap": "warning",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "ignore",
+        "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -124,21 +116,21 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.1,
+        "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.3,
-        "min_hole_clearance": 0.15,
+        "min_copper_edge_clearance": 0.5,
+        "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.7,
+        "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.25,
-        "min_track_width": 0.1,
+        "min_through_hole_diameter": 0.3,
+        "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.25,
+        "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -186,11 +178,7 @@
         }
       ],
       "track_widths": [
-        0.0,
-        0.15,
-        0.2,
-        0.25,
-        2.0
+        0.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -226,18 +214,6 @@
         {
           "diameter": 0.5,
           "drill": 0.3
-        },
-        {
-          "diameter": 0.7,
-          "drill": 0.5
-        },
-        {
-          "diameter": 0.8,
-          "drill": 0.6
-        },
-        {
-          "diameter": 1.0,
-          "drill": 0.6
         }
       ],
       "zones_allow_external_fillets": false
@@ -457,7 +433,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "error",
+      "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -469,9 +445,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "EKO_Miner_ASIClib"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "AsicsBoard - 10xBM1370 - 01A.kicad_pro",
@@ -511,9 +485,9 @@
       "netlist": "",
       "plot": "./gerber",
       "pos_files": "",
-      "specctra_dsn": "EKO_Miner_BM1366-13xx_16-01A.dsn",
-      "step": "../../../3D/EKO_Miner AsicBoard/EKO_Miner_AsicBoard-10xBM1370-01A.step",
-      "svg": "./",
+      "specctra_dsn": "",
+      "step": "../../../3D/BOX_Miner AsicBoard/EKO_Miner_AsicBoard-10xBM1370-01A.step",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -570,145 +544,13 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Availability",
-          "name": "Availability",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Check_prices",
-          "name": "Check_prices",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "DK",
-          "name": "DK",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description_1",
-          "name": "Description_1",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "HEIGHT",
-          "name": "HEIGHT",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MANUFACTURER",
-          "name": "MANUFACTURER",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MF",
-          "name": "MF",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MP",
-          "name": "MP",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Mouser",
-          "name": "Mouser",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "PARTNO",
-          "name": "PARTNO",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "PARTREV",
-          "name": "PARTREV",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Package",
-          "name": "Package",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Price",
-          "name": "Price",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Purchase-URL",
-          "name": "Purchase-URL",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "STANDARD",
-          "name": "STANDARD",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "SnapEDA_Link",
-          "name": "SnapEDA_Link",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "SNAPEDA_PN",
-          "name": "SNAPEDA_PN",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "P/N MOUSER",
-          "name": "P/N MOUSER",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MAXIMUM_PACKAGE_HEIGHT",
-          "name": "MAXIMUM_PACKAGE_HEIGHT",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "SNAPEDA_PACKAGE_ID",
-          "name": "SNAPEDA_PACKAGE_ID",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "",
+      "name": "Grouped By Value",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Référence"
     },
     "connection_grid_size": 50.0,
     "drawing": {

@@ -503,7 +503,7 @@
       "plot": "Gerber/",
       "pos_files": "",
       "specctra_dsn": "EKO_Miner_BM1366-13xx_16-01A.dsn",
-      "step": "../../../3D/EKO_Miner PowerBoard/EKO_Miner_PowerBoard_TPS53667_01A.step",
+      "step": "../../../3D/BOX_Miner PowerBoard/EKO_Miner_PowerBoard_TPS53667_01A.step",
       "svg": "./",
       "vrml": ""
     },
@@ -686,14 +686,14 @@
           "group_by": false,
           "label": "P/N DIGIKEY",
           "name": "P/N DIGIKEY",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "Datasheet"
+      "sort_asc": true,
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {

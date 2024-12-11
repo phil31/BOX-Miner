@@ -457,4 +457,15 @@
 		(thermal_bridge_angle 45)
 		(uuid "79d1c446-fe81-4022-b78e-8e2191eef878")
 	)
+	(model "M:/Librairies/Kicad/EKO_Miner_ASIClib.pretty/3D/BM1368xx.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
 )

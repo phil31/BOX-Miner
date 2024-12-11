@@ -8414,7 +8414,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 304.292 81.28 0)
 			(effects
 				(font
@@ -8477,6 +8477,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "963-TMK212BBJ106MG-T"
+			(at 303.53 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "198bec3a-6a6b-41e1-973f-eeff66513893")
 		)
@@ -8510,7 +8519,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 310.642 81.28 0)
 			(effects
 				(font
@@ -8565,6 +8574,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 309.88 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "963-TMK212BBJ106MG-T"
 			(at 309.88 78.74 0)
 			(effects
 				(font
@@ -8847,6 +8865,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "603-RT0805DRE0751RL"
+			(at 38.1 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7937f915-0225-4f41-9ffc-fb3283fbfd4d")
 		)
@@ -8967,7 +8994,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 348.742 81.28 0)
 			(effects
 				(font
@@ -9022,6 +9049,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 347.98 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "963-TMK212BBJ106MG-T"
 			(at 347.98 78.74 0)
 			(effects
 				(font
@@ -9182,6 +9218,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 177.8 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "603-RC0805FR-078K06L"
 			(at 177.8 133.35 0)
 			(effects
 				(font
@@ -9444,7 +9489,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 184.15 184.15 90)
 			(effects
 				(font
@@ -9480,6 +9525,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 179.07 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "279-CRG0805F100K "
 			(at 179.07 184.15 0)
 			(effects
 				(font
@@ -9645,6 +9699,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 128.27 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "859-LTST-C171GKT"
 			(at 128.27 274.32 0)
 			(effects
 				(font
@@ -9954,6 +10017,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 194.31 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "791-0805B222K160CT"
 			(at 194.31 151.13 0)
 			(effects
 				(font
@@ -10522,7 +10594,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 342.392 81.28 0)
 			(effects
 				(font
@@ -10577,6 +10649,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 341.63 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "963-TMK212BBJ106MG-T"
 			(at 341.63 78.74 0)
 			(effects
 				(font
@@ -11037,7 +11118,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" ""
+		(property "P/N MOUSER" "71-CRCW08050000Z0ECC"
 			(at 195.58 179.07 0)
 			(effects
 				(font
@@ -11184,7 +11265,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/4V"
+		(property "Value" "100uF/6.3V"
 			(at 347.472 152.4 90)
 			(effects
 				(font
@@ -11220,7 +11301,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "963-AMK316ABJ107ML-T"
+		(property "P/N MOUSER" "187-CL31A107MQHNNWE"
 			(at 349.25 140.97 0)
 			(effects
 				(font
@@ -11402,6 +11483,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "603-RC0805FR-0716K5L"
+			(at 80.01 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "911cee2e-cea9-4e4f-b95d-eccd4e9a739a")
 		)
@@ -11490,6 +11580,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "187-CL21B334KBFNNNE"
+			(at 177.8 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3cf7636-4b4a-4f11-95ef-d02a55b809b8")
 		)
@@ -11523,7 +11622,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/4V"
+		(property "Value" "100uF/6.3V"
 			(at 303.022 152.4 90)
 			(effects
 				(font
@@ -11559,7 +11658,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "963-AMK316ABJ107ML-T"
+		(property "P/N MOUSER" "187-CL31A107MQHNNWE"
 			(at 304.8 140.97 0)
 			(effects
 				(font
@@ -11656,6 +11755,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 165.1 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "187-CL21B105KAFNNNE"
 			(at 165.1 116.84 0)
 			(effects
 				(font
@@ -11849,7 +11957,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 329.692 81.28 0)
 			(effects
 				(font
@@ -11904,6 +12012,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 328.93 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "963-TMK212BBJ106MG-T"
 			(at 328.93 78.74 0)
 			(effects
 				(font
@@ -12144,6 +12261,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "603-RT0805DRE0751RL"
+			(at 38.1 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f75e0cd8-f219-4443-8344-1e0d301c1ad7")
 		)
@@ -12233,6 +12359,15 @@
 			)
 		)
 		(property "P/N DIGIKEY" "478-KGM15ACG2A120JMCT-ND"
+			(at 181.61 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "581-KGM15ACG2A120JM"
 			(at 181.61 139.7 0)
 			(effects
 				(font
@@ -12339,7 +12474,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/4V"
+		(property "Value" "100uF/6.3V"
 			(at 334.772 152.4 90)
 			(effects
 				(font
@@ -12375,7 +12510,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "963-AMK316ABJ107ML-T"
+		(property "P/N MOUSER" "187-CL31A107MQHNNWE"
 			(at 336.55 140.97 0)
 			(effects
 				(font
@@ -12825,6 +12960,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "667-ERJ-P06F2551V"
+			(at 156.21 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc39fcd2-df3e-413b-801c-91e6f8d64e9b")
 		)
@@ -12925,7 +13069,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/4V"
+		(property "Value" "100uF/6.3V"
 			(at 315.722 152.4 90)
 			(effects
 				(font
@@ -12961,7 +13105,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "963-AMK316ABJ107ML-T"
+		(property "P/N MOUSER" "187-CL31A107MQHNNWE"
 			(at 317.5 140.97 0)
 			(effects
 				(font
@@ -13165,7 +13309,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/4V"
+		(property "Value" "100uF/6.3V"
 			(at 341.122 152.4 90)
 			(effects
 				(font
@@ -13201,7 +13345,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "963-AMK316ABJ107ML-T"
+		(property "P/N MOUSER" "187-CL31A107MQHNNWE"
 			(at 342.9 140.97 0)
 			(effects
 				(font
@@ -13252,7 +13396,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 291.592 81.28 0)
 			(effects
 				(font
@@ -13307,6 +13451,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 290.83 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "963-TMK212BBJ106MG-T"
 			(at 290.83 78.74 0)
 			(effects
 				(font
@@ -13783,6 +13936,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "603-CC805KRX7R0BB102"
+			(at 69.85 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6a7b68f-7a51-44c8-ab83-1a7787738771")
 		)
@@ -13816,7 +13978,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/4V"
+		(property "Value" "100uF/6.3V"
 			(at 322.072 152.4 90)
 			(effects
 				(font
@@ -13852,7 +14014,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "963-AMK316ABJ107ML-T"
+		(property "P/N MOUSER" "187-CL31A107MQHNNWE"
 			(at 323.85 140.97 0)
 			(effects
 				(font
@@ -14197,7 +14359,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/4V"
+		(property "Value" "100uF/6.3V"
 			(at 296.672 152.4 90)
 			(effects
 				(font
@@ -14233,7 +14395,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "963-AMK316ABJ107ML-T"
+		(property "P/N MOUSER" "187-CL31A107MQHNNWE"
 			(at 298.45 140.97 0)
 			(effects
 				(font
@@ -14380,7 +14542,7 @@
 				)
 			)
 		)
-		(property "Value" "49.9k"
+		(property "Value" "49.9K"
 			(at 185.42 151.13 90)
 			(effects
 				(font
@@ -14434,6 +14596,15 @@
 			)
 		)
 		(property "P/N DIGIKEY" "311-49.9KCRCT-ND"
+			(at 187.96 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "652-CR0805FX-4992ELF"
 			(at 187.96 151.13 0)
 			(effects
 				(font
@@ -14538,6 +14709,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "603-RC0805FR-0724K3L"
+			(at 80.01 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dfc35537-06c4-4098-8ad6-bf41f94bf5a1")
 		)
@@ -14626,6 +14806,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "603-CC805KRX7R0BB102"
+			(at 187.96 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbd5a8dc-7f7b-4478-a3dd-8ded16acc40d")
 		)
@@ -14659,7 +14848,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 297.942 81.28 0)
 			(effects
 				(font
@@ -14714,6 +14903,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 297.18 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "963-TMK212BBJ106MG-T"
 			(at 297.18 78.74 0)
 			(effects
 				(font
@@ -14909,7 +15107,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 323.342 81.28 0)
 			(effects
 				(font
@@ -14964,6 +15162,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 322.58 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "963-TMK212BBJ106MG-T"
 			(at 322.58 78.74 0)
 			(effects
 				(font
@@ -15215,6 +15422,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "187-CL21B105KAFNNNE"
+			(at 123.19 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21ce9e81-755e-4791-9e3f-b3275e6a6c5d")
 		)
@@ -15248,7 +15464,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/4V"
+		(property "Value" "100uF/6.3V"
 			(at 290.322 152.4 90)
 			(effects
 				(font
@@ -15284,7 +15500,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "963-AMK316ABJ107ML-T"
+		(property "P/N MOUSER" "187-CL31A107MQHNNWE"
 			(at 292.1 140.97 0)
 			(effects
 				(font
@@ -15491,7 +15707,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7µF"
+		(property "Value" "4.7µF/16V"
 			(at 123.444 66.802 0)
 			(effects
 				(font
@@ -15537,6 +15753,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 123.19 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "187-CL21A475KOFNNNG"
 			(at 123.19 69.85 0)
 			(effects
 				(font
@@ -15644,7 +15869,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2R/0.5W"
+		(property "Value" "2.2R"
 			(at 106.68 62.23 90)
 			(effects
 				(font
@@ -16363,7 +16588,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 316.992 81.28 0)
 			(effects
 				(font
@@ -16426,6 +16651,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "963-TMK212BBJ106MG-T"
+			(at 316.23 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0dc8d0ed-9f90-46ca-bade-f03c1c17ce3c")
 		)
@@ -16459,7 +16693,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2R/0.5W"
+		(property "Value" "2.2R"
 			(at 106.68 80.01 90)
 			(effects
 				(font
@@ -16545,7 +16779,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/4V"
+		(property "Value" "100uF/6.3V"
 			(at 328.422 152.4 90)
 			(effects
 				(font
@@ -16581,7 +16815,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "963-AMK316ABJ107ML-T"
+		(property "P/N MOUSER" "187-CL31A107MQHNNWE"
 			(at 330.2 140.97 0)
 			(effects
 				(font
@@ -16910,7 +17144,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" ""
+		(property "P/N MOUSER" "71-CRCW08050000Z0ECC"
 			(at 195.58 173.99 0)
 			(effects
 				(font
@@ -17183,7 +17417,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF/4V"
+		(property "Value" "100uF/6.3V"
 			(at 309.372 152.4 90)
 			(effects
 				(font
@@ -17219,7 +17453,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N MOUSER" "963-AMK316ABJ107ML-T"
+		(property "P/N MOUSER" "187-CL31A107MQHNNWE"
 			(at 311.15 140.97 0)
 			(effects
 				(font
@@ -17584,7 +17818,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uF/25V"
 			(at 336.042 81.28 0)
 			(effects
 				(font
@@ -17639,6 +17873,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 335.28 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "963-TMK212BBJ106MG-T"
 			(at 335.28 78.74 0)
 			(effects
 				(font
@@ -17733,6 +17976,15 @@
 			)
 		)
 		(property "P/N DIGIKEY" "RMCF0805FT121KCT-ND"
+			(at 63.5 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "603-RT0805FRE07121KL"
 			(at 63.5 157.48 0)
 			(effects
 				(font
@@ -17900,6 +18152,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 123.19 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "595-TPS53667RTAT"
 			(at 123.19 158.75 0)
 			(effects
 				(font

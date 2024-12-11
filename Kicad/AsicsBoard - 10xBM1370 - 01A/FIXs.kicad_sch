@@ -1679,25 +1679,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 82.55 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 82.55 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 82.55 40.64 0)
 			(effects
 				(font
@@ -1829,15 +1811,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 177.8 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 177.8 86.36 0)
 			(effects
@@ -1958,15 +1931,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 196.85 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 196.85 144.78 0)
 			(effects
@@ -2053,15 +2017,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 88.9 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 88.9 163.83 0)
 			(effects
 				(font
@@ -2161,15 +2116,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 72.39 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 72.39 95.25 0)
 			(effects
@@ -2253,15 +2199,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 72.39 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 72.39 168.91 0)
 			(effects
 				(font
@@ -2361,15 +2298,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 72.39 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 72.39 109.22 0)
 			(effects
@@ -2453,15 +2381,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 72.39 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 72.39 118.11 0)
 			(effects
 				(font
@@ -2587,15 +2506,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 139.7 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 139.7 144.78 0)
 			(effects
@@ -2682,15 +2592,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 88.9 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 88.9 168.91 0)
 			(effects
 				(font
@@ -2799,25 +2700,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 66.04 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 66.04 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 66.04 40.64 0)
 			(effects
 				(font
@@ -2941,15 +2824,6 @@
 			)
 		)
 		(property "P/N MOUSER" "153-SMTSO-M3-10ET"
-			(at 203.2 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 203.2 144.78 0)
 			(effects
 				(font
@@ -3118,15 +2992,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 72.39 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 72.39 102.87 0)
 			(effects
@@ -3210,15 +3075,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 72.39 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 72.39 132.08 0)
 			(effects
 				(font
@@ -3410,15 +3266,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 203.2 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 203.2 86.36 0)
 			(effects
@@ -3522,25 +3369,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 166.37 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 166.37 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 166.37 40.64 0)
 			(effects
 				(font
@@ -3655,25 +3484,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 99.06 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 99.06 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 99.06 40.64 0)
 			(effects
 				(font
@@ -3788,25 +3599,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 133.35 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 133.35 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 133.35 40.64 0)
 			(effects
 				(font
@@ -3904,15 +3697,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 72.39 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 72.39 138.43 0)
 			(effects
 				(font
@@ -4030,15 +3814,6 @@
 			)
 		)
 		(property "P/N MOUSER" "153-SMTSO-M3-10ET"
-			(at 158.75 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 158.75 86.36 0)
 			(effects
 				(font
@@ -4167,15 +3942,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 158.75 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 158.75 144.78 0)
 			(effects
@@ -4279,25 +4045,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 115.57 40.64 0)
 			(effects
 				(font
@@ -4412,25 +4160,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 49.53 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 49.53 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 49.53 40.64 0)
 			(effects
 				(font
@@ -4562,15 +4292,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 146.05 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 146.05 144.78 0)
 			(effects
@@ -4657,15 +4378,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 72.39 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 72.39 158.75 0)
 			(effects
 				(font
@@ -4791,15 +4503,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 152.4 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 152.4 144.78 0)
 			(effects
@@ -4886,15 +4589,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 72.39 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 72.39 76.2 0)
 			(effects
 				(font
@@ -5012,15 +4706,6 @@
 			)
 		)
 		(property "P/N MOUSER" "153-SMTSO-M3-10ET"
-			(at 196.85 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 196.85 86.36 0)
 			(effects
 				(font
@@ -5214,15 +4899,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 152.4 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 152.4 86.36 0)
 			(effects
@@ -5335,15 +5011,6 @@
 			)
 		)
 		(property "P/N MOUSER" "153-SMTSO-M3-10ET"
-			(at 177.8 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 177.8 144.78 0)
 			(effects
 				(font
@@ -5472,15 +5139,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 184.15 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 184.15 86.36 0)
 			(effects
@@ -5584,25 +5242,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 149.86 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 149.86 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 149.86 40.64 0)
 			(effects
 				(font
@@ -5734,15 +5374,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 171.45 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 171.45 144.78 0)
 			(effects
@@ -5855,15 +5486,6 @@
 			)
 		)
 		(property "P/N MOUSER" "153-SMTSO-M3-10ET"
-			(at 190.5 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 190.5 86.36 0)
 			(effects
 				(font
@@ -5992,15 +5614,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 209.55 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 209.55 86.36 0)
 			(effects
@@ -6104,25 +5717,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 33.02 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 33.02 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 33.02 40.64 0)
 			(effects
 				(font
@@ -6220,15 +5815,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 72.39 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 72.39 82.55 0)
 			(effects
 				(font
@@ -6346,15 +5932,6 @@
 			)
 		)
 		(property "P/N MOUSER" "153-SMTSO-M3-10ET"
-			(at 139.7 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 139.7 86.36 0)
 			(effects
 				(font
@@ -6483,15 +6060,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 171.45 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 171.45 86.36 0)
 			(effects
@@ -6604,15 +6172,6 @@
 			)
 		)
 		(property "P/N MOUSER" "153-SMTSO-M3-10ET"
-			(at 165.1 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 165.1 86.36 0)
 			(effects
 				(font
@@ -6741,15 +6300,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 209.55 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 209.55 144.78 0)
 			(effects
@@ -6870,15 +6420,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 165.1 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 165.1 144.78 0)
 			(effects
@@ -6965,15 +6506,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 72.39 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 72.39 88.9 0)
 			(effects
 				(font
@@ -7091,15 +6623,6 @@
 			)
 		)
 		(property "P/N MOUSER" "153-SMTSO-M3-10ET"
-			(at 146.05 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 146.05 86.36 0)
 			(effects
 				(font
@@ -7228,15 +6751,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 184.15 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 184.15 144.78 0)
 			(effects
@@ -7331,15 +6845,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 72.39 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 72.39 124.46 0)
 			(effects
@@ -7423,15 +6928,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 72.39 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 72.39 163.83 0)
 			(effects
 				(font
@@ -7540,25 +7036,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N DIGIKEY" ""
-			(at 182.88 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "P/N MOUSER" "81-GRM32ER60G337ME5K"
-			(at 182.88 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 182.88 40.64 0)
 			(effects
 				(font
@@ -7690,15 +7168,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" ""
-			(at 190.5 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" ""
 			(at 190.5 144.78 0)
 			(effects
@@ -7785,15 +7254,6 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 88.9 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" ""
 			(at 88.9 158.75 0)
 			(effects
 				(font

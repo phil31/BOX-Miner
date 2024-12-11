@@ -4886,7 +4886,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Wuerth:Wuerth_WR-PHD_610008243021_SMD_2x04_P2.54mm_Vertical"
+		(property "Footprint" "EKO_Miner_ASIClib:M20_7810445"
 			(at 250.19 58.42 0)
 			(effects
 				(font
@@ -4914,6 +4914,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 250.19 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "855-M20-7810445"
 			(at 250.19 58.42 0)
 			(effects
 				(font
@@ -6919,7 +6928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Wuerth:Wuerth_WR-PHD_610008243021_SMD_2x04_P2.54mm_Vertical"
+		(property "Footprint" "EKO_Miner_ASIClib:M20_7810445"
 			(at 246.38 142.24 0)
 			(effects
 				(font
@@ -6947,6 +6956,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 246.38 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "855-M20-7810445"
 			(at 246.38 142.24 0)
 			(effects
 				(font
@@ -7624,6 +7642,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 87.63 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "859-LTST-C171GKT"
 			(at 87.63 172.72 0)
 			(effects
 				(font
@@ -10002,8 +10029,8 @@
 		(lib_id "10018784-10210TLF:10018784-10210TLF")
 		(at 49.53 102.87 0)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
+		(exclude_from_sim yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10016,7 +10043,7 @@
 				)
 			)
 		)
-		(property "Value" "10018784-10210TLF"
+		(property "Value" "PCB 10018784-10210TLF"
 			(at 49.53 74.93 0)
 			(effects
 				(font
@@ -10113,16 +10140,6 @@
 			)
 		)
 		(property "PARTREV" "S"
-			(at 49.53 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "10018784-10210TLF"
 			(at 49.53 102.87 0)
 			(effects
 				(font
@@ -10272,8 +10289,8 @@
 		(lib_id "10018784-10210TLF:10018784-10210TLF")
 		(at 49.53 45.72 0)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
+		(exclude_from_sim yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -10286,7 +10303,7 @@
 				)
 			)
 		)
-		(property "Value" "10018784-10210TLF"
+		(property "Value" "PCB 10018784-10210TLF"
 			(at 49.53 17.78 0)
 			(effects
 				(font
@@ -10383,16 +10400,6 @@
 			)
 		)
 		(property "PARTREV" "S"
-			(at 49.53 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "10018784-10210TLF"
 			(at 49.53 45.72 0)
 			(effects
 				(font
@@ -11129,6 +11136,15 @@
 			)
 		)
 		(property "HEIGHT" ""
+			(at 142.24 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N MOUSER" "595-SN74AXC4T245BQBR"
 			(at 142.24 137.16 0)
 			(effects
 				(font

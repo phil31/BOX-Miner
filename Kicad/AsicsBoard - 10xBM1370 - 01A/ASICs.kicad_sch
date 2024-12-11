@@ -1387,16 +1387,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
-			(at 229.87 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" ""
+		(property "P/N MOUSER" "791-RMC1/16SK103FTH"
 			(at 229.87 88.9 0)
 			(effects
 				(font
@@ -1672,16 +1663,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" ""
-			(at 71.12 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" ""
+		(property "P/N MOUSER" "791-RMC1/16SK103FTH"
 			(at 71.12 91.44 0)
 			(effects
 				(font

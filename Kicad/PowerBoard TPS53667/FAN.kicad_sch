@@ -5539,6 +5539,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N MOUSER" "700-MAX6615AEE"
+			(at 96.52 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "c03da63b-80af-407c-9e48-a94b89cf3de5")
 		)
